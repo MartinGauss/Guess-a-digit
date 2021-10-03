@@ -1,2 +1,2 @@
 # Guess-a-digit
-A game where you should guess a digit.
+A game where you need to guess a digit.
